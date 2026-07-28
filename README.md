@@ -6,7 +6,7 @@
 
 ## 📖 About The Project
 
-**EndeavourOS-Shell** is a full visual and functional customisation setup for your terminal environment. All themes, colors, icons, and layout options are managed from a single "source of truth" (`lua/theme.lua`). A custom Lua script automatically builds and deploys configurations for both the Foot terminal (`foot.ini`) and a dynamic multi-line Bash prompt (`modern-prompt.sh`).
+**EndeavourOS-Shell** is a full visual and functional customisation setup for your terminal environment. All themes, colors, icons, and layout options are managed from a single "source of truth" (`lua/theme.lua`). A custom Lua script automatically builds and deploys configurations for both the Foot terminal (`foot.ini`) and a dynamic multi-line Bash prompt (`prompt.sh`).
 
 ---
 
