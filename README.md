@@ -39,5 +39,5 @@ Before installing, make sure you have the following dependencies installed:
 
 1. **Clone the repository to your system:**
    ```bash
-   git clone [https://github.com/Bloby22/EndeavourOS-Shell.git](https://github.com/Bloby22/EndeavourOS-Shell.git)
+   git clone https://github.com/Bloby22/EndeavourOS-Shell.git
    cd EndeavourOS-Shell
